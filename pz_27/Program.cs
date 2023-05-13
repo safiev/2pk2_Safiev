@@ -54,8 +54,10 @@ namespace pz_27
                 }
                 if (znak.NAME != found)
                 {
-                    Console.WriteLine($"Ваше Имя/Фамилия:{found} не были найдены в базе данных");
+                    Console.WriteLine($"Ваше Имя/Фамилия:{found} не были найдены в базе даных");
                 }
+
+                //jeison
             }
         }
     }
